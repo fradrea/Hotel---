@@ -1,6 +1,7 @@
 programa
 {
 	funcao inicio() 
+	
 	{
 	    caracter ocupado        = '1'
 	    caracter repeticao      = 's'
